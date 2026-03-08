@@ -1,0 +1,231 @@
+AMAZON HTML
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="amazon.css">
+</head>
+<body>
+    <header>   
+              <div  class="navbar">
+                 <div class="nav-logo border">
+                      <div class="logo"></div>
+                  </div>
+                  <div class="nav address">
+                      <p class="deliver"> deliver to </p>
+                      <div class="add-icon">
+                        <i class="fa-solid fa-location-dot"></i> 
+                        <p class="India">India</p>
+                        </div>
+                  </div>
+
+                  <div class="nav-search">
+                    <select class="option" >
+                         <option value="All">all</option>
+                     </select>
+                          
+                          <input  placeholder="search Amazon " class="search">
+                          
+                          <div class="search-icon">
+                                  <i class="fa-solid fa-magnifying-glass"></i>
+                          </div> 
+                           
+                          
+
+                  </div>
+                  <div class="box5">
+                                 <p><span>hello,sign in</span></p>
+                                  <p class="L2"> Account&Lists</p>
+                           </div>    
+                            <div class="box6">
+                                 <p><span>returns</span></p>
+                                  <p class="L2"> &orders</p>
+                           </div>  
+                     <div class="cart">
+                        <i class="fa-solid fa-cart-shopping"></i>
+                        <p class="carttxt">cart</p>
+                        </div>            
+             </div>
+         <div class="panel">
+              <div class="panel-logo">
+                  <i class="fa-solid fa-bars"></i>
+                    <p>ALL</p>
+               </div>
+            
+               <div class="panelooo">
+                  <div>today's deals</div>
+                    <div>registry</div>
+                    <div>prime video</div>
+                    <div> gift cards</div>
+                    <div> coustmer service</div>
+                     <div> sell</div>
+                </div>
+        
+          
+        
+         </div>      
+
+
+    </header>
+    <div class="hero-img">
+<div class="heromsg">You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery. <a>Click here to go to amazon.in</a></div>
+  </div>
+   <div class="content">
+    <div class="box">
+    <h2> Upgrade your office furniture<h2>
+        <div class="img1" style="background-image: url('img5.jpg');"></div>
+       <a>
+        shop now
+        </a>
+    </div>
+    <div class="box">
+     <h2> Get your games on<h2>
+        <div class="img2" style="background-image: url('img2.jpg');"></div>
+       <a>
+        shop now
+        </a>
+    </div>
+    <div class="box">
+
+
+        <h2>Laptops for every need<h2>
+        <div class="img3" style="background-image: url('img6.jpg');"></div>
+       <a>
+        Find your laptop here
+        </a>
+    </div>
+    <div class="box">
+      <h2>Creating bussiness solutions <h2>
+        <div class="img4" style="background-image: url('img7.jpg');"></div>
+        <a class="shop now">
+        See more software products
+        </a>
+    </div>
+     <div class="box">
+    <h2> Transformers and toys<h2>
+        <div class="img1" style="background-image: url('img10.jpg');"></div>
+       <a>
+        shop now
+        </a>
+    </div>
+    <div class="box">
+     <h2> Best sellers in home <h2>
+        <div class="img2" style="background-image: url('img9.jpg');"></div>
+       <a>
+        shop now
+        </a>
+    </div>
+    <div class="box">
+
+
+        <h2>Laptops for every need<h2>
+        <div class="img3" style="background-image: url('img8.jpg');"></div>
+       <a>
+        Find your laptop here
+        </a>
+    </div>
+    <div class="box">
+      <h2>Creating bussiness solutions <h2>
+        <div class="img4" style="background-image: url('img7.jpg');"></div>
+        <a class="shop now">
+        See more software products
+        </a>
+    </div>
+     
+
+  </div>
+  <footer>
+     <div class="first-box">
+      <div class="first-line"> See personalized recommendations</div>
+            <div class="second-line">Sign in</div> 
+             <div class="Third-line">New coustmer?<a>start here</a></div>      
+      </div>
+      <div class="second-box">
+        <button class="go-back">Go Back</button>
+        <div class="end">
+           <div class="boxes">
+            <div class="one"></div>
+           
+          </div>
+            <div class="boxes">
+               <div class="two">
+            <h2> get to know us</h2>          
+            <h4>career</h4>          
+            <h4>Blog</h4>         
+             <h4>About Amazon</h4>         
+              <h4>Investor relations</h4>              
+               <h4>Amazon devices</h4>
+                <h4>Amazon sciences</h4>
+               
+            </div>
+          
+            </div>
+             <div class="boxes">
+               <div class="three">
+            <h2> Make money with us</h2>          
+            <h4>Sell products on amazon</h4>          
+            <h4>sell  on amazon bussiness </h4>         
+             <h4>Sell apps on  Amazon</h4>         
+              
+               
+               </div>            
+            </div>
+              <div class="boxes">
+                    <div class="three">
+            <h2> Amazon payment products</h2>          
+            <h4>Shop with points</h4>          
+            <h4>Amazon bussiness card</h4>         
+             <h4>Reload your balance</h4>         
+              
+               
+               </div>   
+              </div>
+               <div class="boxes"> 
+                  <div class="four">
+            <h2>Let us help you</h2>          
+            <h4>Your accounts</h4>          
+            <h4>Your oders</h4>         
+             <h4>Shipping rates</h4> 
+              <h4> Returns</h4> 
+               <h4>Help</h4>         
+              </div>
+               </div>
+                <div class="boxes"> </div>
+
+
+
+
+
+        </div>
+
+
+
+
+      </div>
+      
+      
+  
+
+
+
+
+
+
+  </footer>
+    
+    
+    
+</body>
+</html>
+
+  
+  
+  
+ 
